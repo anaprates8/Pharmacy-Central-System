@@ -1,0 +1,239 @@
+  h2{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    padding: 10px;
+    color: #1a8694;
+  }
+  nav{
+    background:linear-gradient(-50deg, #ebfcfd, #2fadc4, #007b8b);
+    position: sticky;
+    height: 5rem;
+    width: 100%;
+    z-index: 2;
+  }
+  #dropdown{
+    background-color: #1E98A8;
+      width: 8rem;
+      height: 3em;
+      margin: 1rem;
+      border: none;
+  }  
+  nav{
+    position: sticky;
+  }  
+  #botão-login{
+    background-color: #1E98A8;
+    border: none;
+    width: 5%;
+    height: 2.5em;
+    margin: 2rem;
+    align-items: center;
+    outline: none;
+    cursor: pointer;
+  }
+  .logo img{
+    margin: 1em;
+    height: 3rem;
+    width: 100%
+  }
+  nav a{
+   text-decoration: none;
+   margin: 1em;
+   color: #007b8b;
+  }
+  .area-login{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+  }
+  .form-login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #ffffff;
+    margin-top: -30rem;
+    width: 40rem;
+    height: 30rem;
+    border-radius: 1rem;
+    box-shadow: rgba(170, 170, 175, 0.2) 0px 7px 29px 0px;
+  }    
+    #Email, #Senha {
+      background-color: #ebfcfd;
+      width: 100%;
+      height: 3em;
+      border: none;
+      margin: 5px;
+  }
+    form img{
+      height: 5rem;
+  }
+    #btnLogin{
+      background:linear-gradient(-50deg, #5cc0c5,#1a8694);
+      border: none;
+      width: 20%;
+      height: 3em;
+      margin: 2rem;
+      align-items: center; 
+  }
+  .area-form{
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    max-width: 80rem;
+    width: 100%;
+    margin: 150px auto;
+    padding: 40px;
+    background-color: #ffffff;
+    border-radius: 1rem;
+    box-shadow: rgba(170, 170, 175, 0.2) 0px 7px 29px 0px;
+  }
+   .form1, .form2, .form3, .form4{
+    display: flex;
+  }
+   .form1 label, input, .form2 label, input, .form3 label, input, .form4 label, input{
+    width: 25rem;
+    margin: 10px auto;
+  }
+  .col2 label, input, .col3 label, input{
+    width: 12rem;
+    margin: 10px auto;
+  }
+  .btn-farm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #btn-salvar{
+    background:linear-gradient(-50deg, #5cc0c5,#1a8694);
+    border: none;
+    width: 7rem;
+    height: 3em;
+    margin: 20px;
+    padding: 5px;
+    outline: none;
+    cursor: pointer;
+  }
+  .form-med{
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    max-width: 60rem;
+    width: 100%;
+    margin: 150px auto;
+    padding: 40px;
+    background-color: #ffffff;
+    border-radius: 1rem;
+    box-shadow: rgba(170, 170, 175, 0.2) 0px 7px 29px 0px;
+  }
+  .seção1, .seção2{
+    display: flex;
+  }
+  #tipo{
+    margin-top: 5rem;
+  }
+  .mdc label, input, .lab label, input{
+    width: 27.5rem;
+    margin: 12px auto;
+  }
+  .dos, .tipo, .preço{
+    width: 20rem;
+    margin: 10px auto;
+  }
+  .button{
+    background:linear-gradient(-50deg, #5cc0c5,#1a8694);
+    border: none;
+    width: 5%;
+    height: 2.5em;
+    margin: 2rem;
+    align-items: center;
+    outline: none;
+    cursor: pointer    
+  }
+  h1{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    padding: 10px;
+    color: #1E98A8;
+    text-align: center;
+    padding: 3rem;
+  }
+  .cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 5rem;
+    margin-right: 5rem;
+  }
+  .titulo, h5{
+  color: #1E98A8;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  margin: auto ;
+  } 
+  .errors{
+    color: red;
+    font-size: 12px;
+  }
+  span{
+    color: red;
+    font-size: 12px;
+  }
+  .container, table{
+    background-color: #ffffff;
+    margin: 5px 0;
+    font-family:'Barlow Semi Condensed', sans-serif, bold;
+    
+    color: #1E98A8;
+  }
+  tr{
+    background-color: #ffffff;
+  }
+  td, th{
+    color: #137c8a;
+  }
+  .text h3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Barlow, Condensed;
+    font-size: 20px;
+    color: #2c8c99;
+    margin-top: -5em;
+    height: 200px;
+  }
+  form a{
+    margin: 1em;
+    color: #1E98A8;
+    font-size: 15px;
+    margin-top: -1em;
+  }
+   .footer{
+    font-size: 15px;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+  }
+
+    
+    
+
+    
+    
+    
+
+
+  
+      
+
+
+
+
+  
