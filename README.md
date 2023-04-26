@@ -40,7 +40,4 @@ Link do vídeo: https://drive.google.com/file/d/1snmFG7jnwywTiGoJ5EZpSqjaFJUzT-F
 ![image](https://user-images.githubusercontent.com/115781186/234708887-bfb89bf7-66dc-4f17-9e28-b7b8d1d7cdff.png)
 ![image](https://user-images.githubusercontent.com/115781186/234708972-ec4a2c88-e3d8-4764-91e7-621b1338046c.png)
 ![image](https://user-images.githubusercontent.com/115781186/234709075-e58a7e56-398d-4978-9496-1808a6844d40.png)
-
-
-
-
+![image](https://user-images.githubusercontent.com/115781186/234712477-d290a469-e465-4f47-9bc4-20e2ef1ddf89.png)
